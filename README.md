@@ -1,4 +1,4 @@
-# MERN eCommerce Website
+# MERN Ecommerce Website
 
 ## Description
 
